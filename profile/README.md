@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://neon.com.br">
     <img
-      src="https://static.devneon.com.br/assets/2022/07/ilustra-blog-min.webp"
-      width="450"
+      src="https://raw.githubusercontent.com/neon/.github/main/profile/cover.png"
     />
   </a>
 </p>
